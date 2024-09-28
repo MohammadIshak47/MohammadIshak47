@@ -1,9 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+![logo](https://media.licdn.com/dms/image/v2/D5616AQEXfT0ZKe59zQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725792127039?e=1732752000&v=beta&t=8HDXJusGIVNPZcfOAYaPgiJv8V4jqlGCHIVwGO5359M)
+<h1 align="center">Hi 👋, I'm Mohammad Ishak</h1>
+<h3 align="center">A passionate Software Developer fromfrom <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Mirpur-01, Dhaka-1216, Bangladesh</b></h3>
 
 
-<p>Welcome to my page! </br> I'm Mohammad Ishak, Fullstack Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Mirpur-01, Dhaka-1216, Bangladesh</b>. </p>
 
-<h3>Things I code with</h3>
+<p >   </p>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966")
+">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
+
+<h3>Languages and Tools</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
