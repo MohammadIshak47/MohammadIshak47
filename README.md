@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQEXfT0ZKe59zQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725792127039?e=1732752000&v=beta&t=8HDXJusGIVNPZcfOAYaPgiJv8V4jqlGCHIVwGO5359M)
 <h1 align="center">Hi 👋, I'm Mohammad Ishak</h1>
-<h3 align="center">A passionate Software Developer fromfrom <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Mirpur-01, Dhaka-1216, Bangladesh</b></h3>
+<h3 align="center">A passionate Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Mirpur-01, Dhaka-1216, Bangladesh</b></h3>
 
 
 
