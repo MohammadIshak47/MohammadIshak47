@@ -1,111 +1,129 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQEXfT0ZKe59zQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725792127039?e=1732752000&v=beta&t=8HDXJusGIVNPZcfOAYaPgiJv8V4jqlGCHIVwGO5359M)
-<h1 align="center">Hi 👋, I'm Mohammad Ishak</h1>
-<h3 align="center">A passionate Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Mirpur-01, Dhaka-1216, Bangladesh</b></h3>
+<div align="center">
 
+<img src="./banner.svg" width="100%" alt="Mohammad Ishak - Full-Stack Developer"/>
 
-
-<p >   </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966")
-">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-
-
-<h3>Languages and Tools</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/📍-Dhaka,%20Bangladesh-14171F?style=flat-square" />
+<img src="https://img.shields.io/badge/🌍-Open%20to%20Remote%20Work%20Worldwide-E8A33D?style=flat-square" />
 </p>
 
-<h3>Servers I use</h3>
-<p>
-  <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
-  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Lighttpd" src="https://img.shields.io/badge/-Lighttpd-00BFFF?style=flat-square&logo=lighttpd&logoColor=white" />
-</p>
+[![Email](https://img.shields.io/badge/Email-ishak199bd%40gmail.com-14171F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishak199bd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadishak47/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadIshak47/)
 
-<h3>Databases I work with</h3>
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=MohammadIshak47&label=Profile%20Views&color=E8A33D&style=flat-square" alt="profile views" />
 
-<h3>Frameworks I use</h3>
-<p>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="Django REST API" src="https://img.shields.io/badge/-Django%20REST%20API-FF4B4B?style=flat-square&logo=django&logoColor=white" />
-</p>
+</div>
 
-<h3>Operating Systems</h3>
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<br/>
 
-<h3>Others</h3>
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="MS Office" src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
-  <img alt="Adobe Tools" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
-</p>
+## 👋 About me
 
-<h3>Open source projects</h3>
+I'm a versatile remote professional working across four areas: **full-stack software development** (Python, Django, FastAPI, React), **AI automation & SaaS product building**, **data work** (entry, annotation, research), and **virtual administrative support**. I hold a B.Sc. in Computer Science & Engineering, and I bring the same precision to a production API as I do to a client's inbox or a 10,000-row spreadsheet.
+
+I'm currently open to remote roles across:
+
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/MohammadIshak47/corporate_assets_tracker_app"><b>Corporate Asset Tracker App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/MohammadIshak47/news"><b>News Site</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MohammadIshak47/ecommerce_project"><b>Ecommerce Site</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+<tr>
+<td width="33%" valign="top">
+
+**💻 Software & SaaS**
+- Full-Stack Developer
+- Backend / API Developer
+- SaaS Product Builder
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI & Automation**
+- AI Automation Specialist
+- Workflow / Process Automation
+- AI-integrated tooling
+
+</td>
+<td width="33%" valign="top">
+
+**📋 Data & Admin**
+- Data Entry / Annotation
+- Virtual Administrative Assistant
+- Office Assistant / Research
+
+</td>
+</tr>
 </table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://mohammadishak47.hashnode.dev/oop-in-python?source=more_articles_bottom_blogs"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> OOP in Python</b></a><br/><i>Know more about OOP from scartch.</i></li>
-  <li><a href="https://mohammadishak47.hashnode.dev/oop-in-python?source=more_articles_bottom_blogs"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />OOP in Python Part_02</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    
 
-</ul>
+<br/>
 
+## 🛠️ Tech & tools
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/MohammadIshak47/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AhammedIshak" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammadishak47/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://facebook.com/MohammadIshak47" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zapier%20%2F%20n8n-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/-Excel%20%2F%20Sheets-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
 
-------------
+<br/>
 
+## 🚀 Featured project
+
+<table>
+<tr>
+<td width="100%">
+
+### 🗂️ TalentFlow — Multi-tenant ATS Platform (SaaS)
+A production-style Applicant Tracking System inspired by Lever and Greenhouse's core hiring workflows — built end-to-end as a SaaS product, not a tutorial clone.
+
+- **Backend:** FastAPI · SQLAlchemy 2.0 · PostgreSQL · JWT/OTP authentication · role-based access control
+- **Frontend:** React · Tailwind CSS · responsive drag-and-drop hiring pipeline
+- **Database:** 49-table schema across identity, multi-tenancy, jobs, candidates, and pipeline domains — fully designed and validated before any API code was written
+- **Product thinking:** multi-tenant billing/plan structure built in from day one, the same pattern any SaaS product needs
+
+`Python` `FastAPI` `PostgreSQL` `React` `Docker`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub stats
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohammadIshak47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14171F&title_color=E8A33D&icon_color=E8A33D" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadIshak47&layout=compact&theme=tokyonight&hide_border=true&bg_color=14171F&title_color=E8A33D" />
+</div>
+
+<br/>
+
+## 🤝 What I bring to a remote team
+
+- **Range** — I can build the backend API, automate the workflow around it with AI, and handle the admin work that keeps a team running, all without supervision
+- **Reliability** — real experience in remote virtual administrative roles; comfortable working async across timezones with no hand-holding
+- **Product mindset** — I think in terms of shippable, maintainable systems, not one-off scripts — TalentFlow's schema-first, SaaS-ready design reflects that
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's work together
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishak199bd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadishak47/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadIshak47/)
+
+<sub>Available immediately · Any timezone · Full-time or contract</sub>
+
+</div>
