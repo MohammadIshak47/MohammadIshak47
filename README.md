@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Mohammad Ishak - Full-Stack Developer"/>
+<img src="https://drive.google.com/uc?export=view&id=1LzQTJXJx1di_nWEoPsCXrfOvq7N94oRn" width="100%" alt="Mohammad Ishak - Full-Stack Developer"/>
 
 <p>
 <img src="https://img.shields.io/badge/📍-Dhaka,%20Bangladesh-14171F?style=flat-square" />
